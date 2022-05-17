@@ -1,4 +1,4 @@
-# LMS
+# RIZOMAS
 
 _Es una aplicacion para gestión de actividades de estudiantes y profesores LMS_
 
